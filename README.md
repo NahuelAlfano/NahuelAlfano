@@ -1,5 +1,5 @@
 # Hola, mi nombre es **Nahuel Alfano** :wave:
-### Estudiante de Comercio Internacional en la <a href="https://www.unlu.edu.ar">Unlu</a>
+### Estudiante de Comercio Internacional en la Unlu
 ### Actualmente estoy estudiando también para algún día poder ser programador :muscle:
 
 _Cursos realizados_:
